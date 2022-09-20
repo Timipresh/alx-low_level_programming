@@ -1,10 +1,10 @@
-/**                                                                                                                                     
- * swap_int - swap values of integers
- * @a: a is a pointer variable
- * @b: b is a pointer variable
- * Description: swapping pointer values
- */ 
-
+/**
+ * swap_int - Swaps pointer values
+ *
+ * @a: pointer variable
+ * @b: pointer variable
+ * Description: function that swaps pointers
+ */
 void swap_int(int *a, int *b)
 {
 	int tmp, tmp1;
